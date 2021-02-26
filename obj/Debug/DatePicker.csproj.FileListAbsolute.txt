@@ -1,0 +1,14 @@
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\DatePicker.csprojAssemblyReference.cache
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\MainWindow.g.cs
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\App.g.cs
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\DatePicker_MarkupCompile.cache
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\DatePicker_MarkupCompile.lref
+C:\Users\a3yko\source\repos\DatePicker\bin\Debug\DatePicker.exe.config
+C:\Users\a3yko\source\repos\DatePicker\bin\Debug\DatePicker.exe
+C:\Users\a3yko\source\repos\DatePicker\bin\Debug\DatePicker.pdb
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\MainWindow.baml
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\DatePicker.g.resources
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\DatePicker.Properties.Resources.resources
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\DatePicker.csproj.GenerateResource.cache
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\DatePicker.exe
+C:\Users\a3yko\source\repos\DatePicker\obj\Debug\DatePicker.pdb
